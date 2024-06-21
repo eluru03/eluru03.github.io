@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  align-content: center;
+}
+section{ 
+    margin: 50px;
+    padding: 25px;
+    background-color:rgb(88, 143,253);
+    text-align:justify;
+    font-size: larger;
+} 
+nav ul{
+    text-align: center;
+    top:0;
+    width:96%;
+    letter-spacing:4px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.25);
+}
+.menu-item{
+text-decoration:none;
+color: #000000;
+padding: 10px;
+display: inline-block;
+}
+.menu-item:hover{
+    background-color: rgba(4, 4, 161, 0.291);
+    transition: all 0.4s ease-in-out;
+}
+h1{
+    text-align:center;
+    letter-spacing:4px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-align: justify;
+    
+}
+
